@@ -1,0 +1,84 @@
+html,
+body {
+    height: 100%;
+    font-family: 'Montserrat', sans-serif;
+    background: linear-gradient(to right, #0d1313 0%, #152626 100%);
+    /* color: #e7dfd5; */
+}
+
+
+h1{
+    font-family: 'Marck Script', cursive;
+}
+
+.heroes{
+    font-family: 'Marck Script', cursive;
+    font-size: 3rem;
+    color: #e7dfd5;
+}
+
+.specialy-text{
+    color: #e7dfd5;
+}
+p {
+    color: #e7dfd5;
+}
+
+.header-h1{
+    color: #410606;
+    padding-bottom: .125rem;
+    border-top: .125rem solid #000;
+    border-bottom: .125rem solid #000;
+    font-size: 3rem;
+    text-transform: uppercase;
+    text-align: center;
+  }
+  .header-h2{
+    color: #6b5d1c;
+    padding-bottom: .125rem;
+    border-top: .125rem solid #000;
+    border-bottom: .125rem solid #000;
+    font-size: 3rem;
+    text-transform: uppercase;
+    text-align: center;
+  }
+  .header-h3{
+    color: #69828C;
+    padding-bottom: .125rem;
+    border-top: .125rem solid #000;
+    border-bottom: .125rem solid #000;
+    font-size: 3rem;
+    text-transform: uppercase;
+    text-align: center;
+  }
+
+.book-plot-container{
+    background: black;
+    padding: 10px 10px;
+    align-self: center; 
+    margin-bottom: 10px;
+    border: 3px solid black;
+    border-radius: 12px;
+}
+.line{
+    
+    height: 3px;
+    background-color: #1A0000;
+    margin: 15px 5px 30px 5px;
+}
+.line2{
+    
+    height: 3px;
+    background-color: #615419;
+    margin: 15px 5px 30px 5px;
+}
+
+.line3{
+    
+    height: 3px;
+    background-color: #69828C ;
+    margin: 15px 5px 30px 5px;
+}
+
+
+ 
